@@ -1,0 +1,138 @@
+{
+  "company": {
+    "name": "Mining Discovery",
+    "description": "Mining Discovery is a mining-focused media and marketing platform.",
+    "website": "https://www.miningdiscovery.com/",
+    "email": "info@miningdiscovery.com"
+  },
+
+  "about": {
+    "description": "Mining Discovery provides mining news, insights, analysis, company information and marketing services for the global mining community.",
+    "focus": [
+      "Mining news",
+      "Mining industry insights",
+      "Industry analysis",
+      "Company information",
+      "Mining marketing"
+    ]
+  },
+
+
+  "company": {
+    "name": "Mining Discovery",
+    "description": "Mining Discovery is a mining-focused media and marketing platform.",
+    "founded": 2022,
+    "purpose": [
+      "Illuminating the mining industry",
+      "Turning insight into action",
+      "Fostering transparency",
+      "Building bridges between mining companies, investors, regulators and communities"
+    ],
+    "description_long": "Mining Discovery provides mining news, insights, analysis, company information and marketing services for the global mining community."
+  },
+
+  "focus": [
+    "Mining news",
+    "Exploration",
+    "Production",
+    "Regulation",
+    "Investment",
+    "Sustainability",
+    "Investor relations",
+    "Innovation",
+    "Industry developments"
+  ],
+
+  "services": [
+    {
+      "name": "Digital Branding",
+      "description": "Mining Discovery helps mining and industrial companies develop brand identities and improve brand visibility and recognition."
+    },
+    {
+      "name": "Social Media Marketing",
+      "description": "Mining Discovery develops social media campaigns and strategies designed to strengthen a company's brand voice and engagement."
+    },
+    {
+      "name": "Google Ads & Paid Campaigns",
+      "description": "Mining Discovery creates and manages Google Ads and paid campaigns designed to generate qualified traffic and measurable results."
+    },
+    {
+      "name": "LinkedIn & Meta Ads",
+      "description": "Mining Discovery creates and manages advertising campaigns on LinkedIn and Meta for professional and broader audience reach."
+    },
+    {
+      "name": "Logo & Visual Design",
+      "description": "Mining Discovery creates visual identities and logos for companies in the mining industry."
+    },
+    {
+      "name": "Public Relations (PR)",
+      "description": "Mining Discovery provides media relations, press releases, thought leadership and publicity support."
+    },
+    {
+      "name": "Webinars & Events",
+      "description": "Mining Discovery organizes and supports webinars and virtual events for education, engagement and industry positioning."
+    },
+    {
+      "name": "Website Development",
+      "description": "Mining Discovery develops websites designed to be user-friendly, fast and suitable for businesses and organizations."
+    },
+    {
+      "name": "App Development",
+      "description": "Mining Discovery develops web and mobile applications designed to improve customer engagement and operational efficiency."
+    }
+  ],
+
+  "content": [
+    "Mining news",
+    "Gold news",
+    "Copper news",
+    "Precious metals news",
+    "Corporate news",
+    "Projects",
+    "Research reports",
+    "Leadership content",
+    "Industry analysis",
+    "Magazines",
+    "Daily and weekly newsletters"
+  ],
+
+  "contact": {
+    "website": "https://www.miningdiscovery.com/",
+    "email": "info@miningdiscovery.com",
+    "address": "180 Layfatte street, Passaic, New Jersey 07055"
+  },
+
+  "rules": [
+    "The AI assistant must identify itself as an AI assistant.",
+    "The AI must not pretend to be a human employee.",
+    "The AI should answer questions about Mining Discovery using the knowledge provided in this file.",
+    "The AI should not invent Mining Discovery services, prices, employees, addresses, phone numbers, partnerships or other facts.",
+    "If information is not available in the knowledge provided, the AI should clearly say that it does not have that information and direct the visitor to contact Mining Discovery.",
+    "The AI can explain general mining concepts.",
+    "For investment-related questions, the AI should provide general educational information and should not make personalized investment recommendations or guarantee financial results.",
+    "The AI should answer politely, professionally and concisely."
+  ],
+
+  "website_sources": [
+    {
+      "name": "Mining Discovery Homepage",
+      "url": "https://www.miningdiscovery.com/"
+    },
+    {
+      "name": "Mining Discovery News",
+      "url": "https://www.miningdiscovery.com/news/"
+    },
+    {
+      "name": "Mining Discovery Projects",
+      "url": "https://www.miningdiscovery.com/projects/"
+    },
+    {
+      "name": "Mining Discovery Services",
+      "url": "https://www.miningdiscovery.com/services/"
+    },
+    {
+      "name": "Mining Discovery Contact",
+      "url": "https://www.miningdiscovery.com/contact/"
+    }
+  ]
+}
